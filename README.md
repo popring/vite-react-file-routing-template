@@ -60,7 +60,7 @@ vite-react-file-routing-starter
 Create a new project using this template:
 
 ```bash
-npx tiged your-username/vite-react-file-routing-starter my-project
+npx tiged popring/vite-react-file-routing-starter my-project
 cd my-project
 ```
 
