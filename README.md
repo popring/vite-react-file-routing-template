@@ -2,6 +2,8 @@
 
 A Vite + React + TypeScript starter template with file-based routing.
 
+![Vite React File Routing Template](./public/image.png)
+
 ## Features
 
 - ⚡️ **Vite + Rolldown** - Lightning-fast development and build
