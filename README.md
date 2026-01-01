@@ -55,28 +55,36 @@ vite-react-file-routing-starter
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
-
-**1. Clone the repository**
+Create a new project using this template:
 
 ```bash
-git clone https://github.com/your-username/vite-react-file-routing-starter.git
-cd vite-react-file-routing-starter
+npx tiged your-username/vite-react-file-routing-starter my-project
+cd my-project
 ```
 
-**2. Install dependencies**
+Install dependencies:
 
 ```bash
 pnpm install
 ```
 
-**3. Start the development server**
+Start the development server:
 
 ```bash
 pnpm dev
 ```
 
 Then open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+#### Alternative: Clone with Git
+
+```bash
+git clone https://github.com/your-username/vite-react-file-routing-starter.git my-project
+cd my-project
+rm -rf .git && git init
+pnpm install
+pnpm dev
+```
 
 ## Available Scripts
 
